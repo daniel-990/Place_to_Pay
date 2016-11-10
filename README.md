@@ -16,4 +16,4 @@
 	- `Teléfono`
 	- `medios de pago`
 
-###para levantar la pagina se puede servir con mammp, xammp, node o browser sync.
+para levantar la pagina se puede servir con [mamp](https://www.mamp.info/en/), [xampp](https://www.apachefriends.org/es/index.html), [node-js](https://nodejs.org/es/) o [Browsersync](https://www.browsersync.io/).
