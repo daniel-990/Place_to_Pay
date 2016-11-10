@@ -1,0 +1,165 @@
+html{}
+body{}
+
+li{
+    list-style: none;
+}
+.fondo{
+    background: linear-gradient(50deg, HSLA(205, 62%, 44%, 1), #4f4747);
+    background-image: linear-gradient(50deg, #5c5552, rgb(128, 203, 196));
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
+
+.color-negro{color: black !important;}
+.color-blanco{color: white !important;}
+.color-orange{color:orange !important;}
+
+.ancho-50{width: 50% !important;}.ancho-60{width: 60% !important;}
+.ancho-70{width: 70% !important;}.ancho-80{width: 80% !important;}
+.ancho-90{width: 90% !important;}.ancho-100{width: 100% !important;}
+
+.fuente17px{font-size: 17px !important;}
+.fuente30px{font-size: 30px !important;}
+.fuente150px{font-size: 150px !important;}
+
+.relleno-alto100px{padding-top: 100px;}
+.relleno-bajo100px{padding-bottom: 100px;}
+.relleno-alto50px{padding-top: 50px;}
+.relleno-bajo50px{padding-bottom: 50px;}
+.relleno-bajo20px{padding-bottom: 20px;}
+.relleno-alto10px{padding-top: 10px !important;}
+
+.margin-left100px{margin-left: 100px;}
+
+.fondo-naranja{background-color: orange !important;}
+.username{
+    height: 49px;
+    line-height: 2;
+    background-color: #f2f2f2 !important;
+    padding: 9px !important;
+}
+.titulo-compra{
+    position: relative;
+    top: 155px;
+}
+.pago{
+    background-image: url(img/fondos/producto.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+.datos-pago{
+    position: absolute;
+    height: 100%;
+    width: auto;
+    background-color: rgba(0, 0, 0, 0.38);
+}
+.contenido-pago{
+    padding: 16%;
+    margin-top: 10%;
+}
+.contenido-pago div p{
+    color: white;
+}
+
+
+/*--*/
+.zindex{z-index: 1 !important;}.relativo{position: relative;}
+.color-agua{background-color: #80cbc4;}
+.cursor-default{cursor: default;}
+
+.fondo{
+    background: linear-gradient(50deg, HSLA(205, 62%, 44%, 1), #4f4747);
+    background-image: linear-gradient(50deg, #5c5552, rgb(128, 203, 196));
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
+.form{
+    padding-top: 100px;
+}
+.fondo .a{
+    position: fixed;
+    margin-top: 95px;
+    z-index: 2;
+}
+
+.texto-justificado{
+    text-align: justify;
+}
+.font-size30px{font-size: 30px;}
+.font-size50px{font-size: 50px;}
+.font-size80px{font-size: 80px;}
+.font-size250px{
+    font-size: 250px;
+}
+.paddin-top100px{padding-top: 100px;}
+.paddin-top80px{padding-top: 80px;}
+.paddin-bottom80px{padding-bottom: 100px;}
+.paddin-bottom30px{padding-bottom: 30px;}
+.paddin-bottom10px{padding-bottom: 10px;}
+
+.ancho-50{width: 50%;}
+.ancho-60{width: 60%;}
+.ancho-70{width: 70%;}
+.ancho-80{width: 80%;}
+.ancho-90{width: 90%;}
+
+.magin-0px{margin: 0px;}
+.margin-50px{
+    margin: 30px;
+}
+.fondo-estadisticas{
+    background-image: url(img/fondos/pago.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 900px;
+}
+
+
+.video-home{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.header{position: fixed;z-index: 2;}
+.header nav div{
+
+}
+
+.display-none{
+    display: none;
+}
+
+footer.page-footer {
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+}
+
+@media only screen and (max-width: 993px){
+    .nombre{
+        font-size: 40px !important;
+    }
+    .brand-logo{
+        margin-left: inherit !important;
+    }
+}
