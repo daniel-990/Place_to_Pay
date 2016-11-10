@@ -1,5 +1,5 @@
-#pagina que perimte al usuario realizar transacciones via web, 
-#mediante la pasarela de pagos de *[place to play](https://www.placetopay.com/)
+pagina que perimte al usuario realizar transacciones via web, 
+mediante la pasarela de pagos de *[place to play](https://www.placetopay.com/)
 
 *ver:
  	● Número de referencia
